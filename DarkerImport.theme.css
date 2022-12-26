@@ -32,3 +32,6 @@
 	background-color: var(--color-alert);
 	color: var(--color-low);
 }
+.theme-dark .bd-addon-list .bd-addon-card {
+	background-color: var(--color-high-trans);
+}

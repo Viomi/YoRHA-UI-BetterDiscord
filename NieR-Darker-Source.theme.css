@@ -32,7 +32,7 @@
 	--color-low: rgb(214, 214, 214);
 	--color-mid: rgb(156, 156, 156);
 	--color-alert: rgb(205, 102, 77);
-	--color-high-trans: rgba(87, 84, 74, 0.6);
+	--color-high-trans: rgba(87, 84, 74, 0.8);
 	--color-low-trans: rgba(214, 214, 214, 0.8);
 	--color-alert-trans: rgba(205, 102, 77, 0.7);
 	--nier-font: sce-ps3_rodin_latinregular;
